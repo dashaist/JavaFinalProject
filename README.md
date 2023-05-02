@@ -100,6 +100,10 @@
 ![image](https://user-images.githubusercontent.com/77012251/235620538-71581809-3bfc-4928-87d8-aeee49860051.png)
 ![image](https://user-images.githubusercontent.com/77012251/235620630-1558df32-22c8-436b-800f-6dace312cb20.png)
 
+- При вводе ответа не из списка пользователю выведется тот же ответ ещё раз.
+
+![image](https://user-images.githubusercontent.com/77012251/235626604-42c7870a-febf-428f-9d4b-d21b12a6abc2.png)
+
 ---
 
 ## Основное меню администратора
