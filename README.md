@@ -23,7 +23,7 @@
 
 При запуске программы пользователя просят ввести свой логин: 
 
-![](../../../../images/dev/1.PNG)
+![](https://github.com/dashaist/JavaFinalProject/raw/dev/images/dev/1.png)
 
 Расcмотриv 3 варианта событий:
 
