@@ -23,7 +23,7 @@
 
 При запуске программы пользователя просят ввести свой логин: 
 
-![Иллюстрация к проекту](https://github.com/dashaist/JavaFinalProject/raw/dev/images/1.png)
+![1](https://user-images.githubusercontent.com/77012251/235612451-4390bce1-eb0b-403e-a1fc-d90e751b7177.PNG)
 
 Расcмотриv 3 варианта событий:
 
